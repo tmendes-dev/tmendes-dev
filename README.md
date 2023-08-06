@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **th.mendes1997@gmail.com**
 
-- ⚡ Fun fact **i have 5 cats (Jorginho, Killua, Picolino, Amelie and Har).**
+- ⚡ Fun fact **i have 3 cats (Jorginho, Killua and Amelie ).**
 
 
 <p align="left">
