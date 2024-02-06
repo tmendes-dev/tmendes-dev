@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Thomas Mendes</h1>
 <h3 align="center">In love with software development 🚀</h3>
 
+- Married, Father, Geek, Curious person e possibly your new friend.
 
 - 🌱 I’m currently learning **software architectural patterns.**
 
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **th.mendes1997@gmail.com**
 
-- ⚡ Fun fact **i have 3 cats (Jorginho, Killua and Amelie ).**
+- ⚡ Fun fact **i have 3 cats (Jorginho, Killua and Amelie).**
 
 
 <p align="left">
