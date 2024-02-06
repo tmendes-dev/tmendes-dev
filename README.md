@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Thomas Mendes</h1>
 <h3 align="center">In love with software development 🚀</h3>
 
-- Married, Father, Geek, Curious person e possibly your new friend.
-
 - 🌱 I’m currently learning **software architectural patterns.**
 
 - 👯 I’m looking to collaborate on **any cool project you need help with.**
