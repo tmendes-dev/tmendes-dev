@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any cool project you need help with.**
 
-- 💬 Ask me about **Design Patterns, Microsservices, Asynchronous Programming, Parallelism, Loops and anime, lmao, i'm available to exhange experience.**
+- 💬 Ask me about **Design Patterns, Microsservices, Asynchronous Programming, Parallelism and Animes, i'm available to exhange experience.**
 
 - 📫 How to reach me **th.mendes1997@gmail.com**
 
