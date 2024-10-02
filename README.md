@@ -33,7 +33,7 @@
 ### 🌍 Current Position
 - **Senior Software Engineer - .NET** at Truelogic Software (Feb 2024 - Present)
   - Key member of the Evolution Squad, refactoring and creating back-end solutions in healthcare.
-  - Technologies: C#, Docker, SQL, NoSQL, and Git.
+  - Technologies: C#, Docker, SQL, NoSQL, K8s, Kafka, Redis, AWS and Git.
 
 ---
 
