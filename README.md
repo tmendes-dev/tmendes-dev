@@ -29,9 +29,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmendes-dev&label=Profile%20views&color=3400f0&style=flat" alt="tmendes-dev" /> </p>
 
 ---
-
 ### 🌍 Current Position
-- **Senior Software Engineer - .NET** at Truelogic Software (Feb 2024 - Present)
+  - Open to work
+### 🌍 Last Position
+- **Senior Software Engineer - .NET** at Truelogic Software (Feb 2024 - Nov 2025)
   - Key member of the Evolution Squad, refactoring and creating back-end solutions in healthcare.
   - Technologies: C#, Docker, SQL, NoSQL, K8s, Kafka, Redis, AWS and Git.
 
