@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Thomas Mendes</h1>
 <h3 align="center">Passionate Senior Software Engineer specializing in .NET 🚀</h3>
 
-- 🌱 I’m currently learning **software architectural patterns** to enhance system design.
+- 🌱 I’m currently learning **system design** to enhance system design.
 - 👯 I’m looking to collaborate on **innovative projects** that leverage cutting-edge technologies.
 - 💬 Ask me about **Design Patterns, Microservices, Asynchronous Programming, and more!** I'm here to exchange experiences.
 - 📫 How to reach me: **[th.mendes1997@gmail.com](mailto:th.mendes1997@gmail.com)**
