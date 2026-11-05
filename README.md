@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **software architecture** to enhance system design.
 - 👯 I’m looking to collaborate on **innovative projects** that leverage cutting-edge technologies.
 - 💬 Ask me about **Design Patterns, Microservices, Asynchronous Programming, and more!** I'm here to exchange experiences.
-- 📫 How to reach me: **[th.mendes1997@gmail.com](mailto:th.mendes1997@gmail.com)**
+- 📫 How to reach me: **[th.mendes1997@gmail.com](mailto:tmendes.dev@gmail.com)**
 - ⚡ Fun fact: I have 3 cats (Jorginho, Killua, and Amelie) 🐾.
 
 ---
